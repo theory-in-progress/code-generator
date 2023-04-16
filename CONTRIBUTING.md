@@ -17,7 +17,7 @@ Contributing to Code-Generator can be divided into two parts:
 
 To contribute to Code-Generator App, you will need Nodejs LTS v16, VSCode, Vetur, pip or conda, and pnpm package manager.
 
-- Install [VSCode](https://code.visualstudio.com/) according to your OS.
+- Install [VSCode](https://code.visualstudio.com/) according to your OS. Rogue Text.
 
 - Install [Vetur extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur) to get syntax highlighting for `.vue` files. You can search `Vetur` in VSCode Extensions Tab to install.
 
